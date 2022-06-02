@@ -1,0 +1,2 @@
+python BetterIroning.py
+pause
